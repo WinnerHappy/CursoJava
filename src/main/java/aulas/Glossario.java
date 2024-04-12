@@ -1,5 +1,7 @@
 package aulas;
 
+import java.util.Scanner;
+
 public class Glossario {
 
         public static void main(String[] args) {
@@ -70,6 +72,13 @@ public class Glossario {
             System.out.println(" \"Hello, World!\" \n\r \"Hello, World\""); // teste de output com aspas duplas usando a sequência de escape
             System.out.println("1\\4");
 
+            /*--------------Leitura do teclado :--------------
+
+            Scanner scan = new Scanner(System.in); // Classe Scanner realiza a leitura do que é digitado no teclado.
+            String nome = scan.nextLine(); // tipo de utilização que é usado na Classe Scanner
+            int idade = scan.nextInt(); // tipo de utilização que é usado na Classe Scanner
+            double altura = scan.nextDouble(); // tipo de utilização que é usado na Classe Scanner
+            */
         }
     }
 
