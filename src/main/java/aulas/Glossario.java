@@ -69,6 +69,42 @@ public class Glossario {
             \\ = BARRA INVERTIDA
 
              */
+
+            /* ------Operadores Aritmeticos --------
+
+            + = SOMA
+            - = SUBTRAÇÃO
+            * = MULTIPLICAÇÃO
+            / = DIVISAO
+            % = MODULO
+            ++ = INCREMENTO
+            -- = DECREMENTO
+
+             */
+
+            /* ------Operadores Relacionais --------
+
+            == = IGUAL A
+            != = DIFERENTE DE
+            > = MAIOR QUE
+            < = MENOR QUE
+            >= MAIOR OU IGUAL QUE
+            <= MENOR OU IGUAL QUE
+
+             */
+
+            /* ------Operadores Logicos--------
+
+            & = AND
+            | = OR
+            ^ = XOR
+            || = OR - Curto Circuito
+            && = AND - Curto Circuito
+            ! = NOT
+
+             */
+
+
             System.out.println(" \"Hello, World!\" \n\r \"Hello, World\""); // teste de output com aspas duplas usando a sequência de escape
             System.out.println("1\\4");
 
