@@ -104,6 +104,13 @@ public class Glossario {
 
              */
 
+            /* ------------ Operações Matematicas: ------------
+
+            Math.ceil - é uma função da classe Math, ele arredonda um número para cima para o próximo número inteiro.
+            Math.pow - é usada para calcular a potência de um número.
+
+             */
+
 
             System.out.println(" \"Hello, World!\" \n\r \"Hello, World\""); // teste de output com aspas duplas usando a sequência de escape
             System.out.println("1\\4");
